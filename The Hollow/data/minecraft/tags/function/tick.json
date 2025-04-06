@@ -1,6 +1,6 @@
 {
     "values": [
         "weapon:tick",
-        "weapon:macro_tick"
+        "weapon:vampire_dagger/macro_tick"
     ]
 }

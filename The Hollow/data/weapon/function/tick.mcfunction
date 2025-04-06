@@ -1,5 +1,5 @@
 #scoreboard result
-execute as @e[scores={time_one=1}] at @s run function weapon:reset_vampire_dagger
+execute as @e[scores={time_one=1}] at @s run function weapon:vampire_dagger/reset_vampire_dagger
 
 #count down
 scoreboard players remove @e[scores={time_one=1..}] time_one 1

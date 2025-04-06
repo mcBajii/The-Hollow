@@ -13,6 +13,6 @@
       }
     },
     "rewards": {
-      "function": "weapon:vampire_dagger"
+      "function": "weapon:vampire_dagger/vampire_dagger"
     }
   }
