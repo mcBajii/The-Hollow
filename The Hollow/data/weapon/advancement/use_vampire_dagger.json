@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:stone_sword",
+            "predicates": {
+              "minecraft:custom_data": "{vampire_dagger:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "weapon:vampire_dagger"
+    }
+  }
