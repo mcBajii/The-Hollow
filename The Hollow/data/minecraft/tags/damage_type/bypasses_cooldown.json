@@ -1,5 +1,6 @@
 {
     "values": [
-        "minecraft:magic"
+        "minecraft:magic",
+        "minecraft:player_attack"
     ]
 }
