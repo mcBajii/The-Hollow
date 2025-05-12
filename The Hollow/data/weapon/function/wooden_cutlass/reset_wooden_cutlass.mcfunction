@@ -1,0 +1,1 @@
+advancement revoke @s only weapon:use_wooden_cutlass

@@ -1,0 +1,9 @@
+{
+    "values": [
+        "weapon:tick",
+        "weapon:vampire_dagger/macro_tick",
+        "weapon:wooden_cutlass/tick_sound_effect",
+        "weapon:use_cost/voltage_add_tick",
+        "weapon:static_rapier/static_effect"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:iron_sword",
+            "predicates": {
+              "minecraft:custom_data": "{static_rapier:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "weapon:static_rapier/static_rapier"
+    }
+  }
