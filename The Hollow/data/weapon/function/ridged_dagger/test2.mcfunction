@@ -1,0 +1,1 @@
+$execute at @a[nbt={UUID:[I;$(UUID_0),$(UUID_1),$(UUID_2),$(UUID_3)]}] run tp @e[tag=plasma_wave] ~ ~ ~

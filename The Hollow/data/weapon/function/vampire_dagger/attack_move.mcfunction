@@ -1,10 +1,10 @@
-tp @s ^ ^ ^0.2
+tp @s ^ ^ ^0.1
 
 execute at @s as @p run function weapon:vampire_dagger/blood_particle
 
 execute at @s run function weapon:vampire_dagger/attack_entity_collision
 
-execute at @s unless block ^ ^1 ^-1 #air run tag @s add hitBlock
+execute at @s unless block ~ ~ ~ #air run tag @s add hitBlock
 
 scoreboard players remove @s ray_steps 1
 

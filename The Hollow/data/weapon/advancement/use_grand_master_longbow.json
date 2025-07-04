@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "using_item": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:bow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_data": "{grand_master_bow:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "weapon:grand_master_bow/use_bow"
+  }
+}

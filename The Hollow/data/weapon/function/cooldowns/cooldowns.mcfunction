@@ -1,0 +1,1 @@
+execute as @a if items entity @s weapon.mainhand iron_sword[minecraft:custom_data={static_rapier:1b}] run function weapon:cooldowns/static_rapier

@@ -19,3 +19,16 @@ scoreboard objectives add static_ability_timer dummy
 scoreboard objectives add voltage_count dummy
 #divine enchant
 scoreboard objectives add divine_smite dummy
+#silver cutlass
+scoreboard objectives add silver_cutlass_absorption minecraft.custom:minecraft.damage_absorbed
+
+
+scoreboard objectives add score_divide2 dummy
+scoreboard players set #score_divide2 score_divide2 2
+
+#ridged dagger
+scoreboard objectives add return_timer dummy
+scoreboard objectives add ridged_uuid_0 dummy
+scoreboard objectives add ridged_uuid_1 dummy
+scoreboard objectives add ridged_uuid_2 dummy
+scoreboard objectives add ridged_uuid_3 dummy
